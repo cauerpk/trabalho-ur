@@ -1,0 +1,11 @@
+body{
+    background-color: bisque;
+    text-align: center;
+}
+a: :hover{
+    
+}
+nav a{
+    text-decoration: none;
+    color: purple;
+}
