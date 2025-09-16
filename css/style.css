@@ -1,11 +1,10 @@
 body{
-    background-color: bisque;
+    background-color: rgb(34, 34, 34);
     text-align: center;
-}
-a: :hover{
-    
+    color: white;
 }
 nav a{
     text-decoration: none;
-    color: purple;
+    color: orange;
+    margin-right: 8px;
 }
